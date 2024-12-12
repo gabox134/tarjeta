@@ -1,0 +1,17 @@
+
+body {
+    background-image: url(exagonal.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+}
+
+.agrupar {
+    display: flex;
+    margin-top: auto;
+    max-width: auto;
+}
+header {
+    text-shadow: none;
+}
+

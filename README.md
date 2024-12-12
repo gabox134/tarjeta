@@ -1,2 +1,2 @@
-# tarjeta
-creación de carpeta
+# maquetado
+creando informacion personal 
